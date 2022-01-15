@@ -13,7 +13,7 @@ In this notebook we will clean and combine the raw data in CSVs collected from t
 
 **Exploratory Data Analysis**
 
-File too large 
+File too large, may attach at later date. 
 
 
 **Modeling**
